@@ -29,7 +29,7 @@ Calcul du salaire mensuel dépend du type de l'empoyer :
 
 ---------------------------------------
 ## Etape 3s
-Certains employée sont dans des secteurs de risque et on ne prime mensuelle de 200€
+Certains employée sont dans des secteurs de risque et on ne prime mensuelle de 200€ -> PAS FAIS LA GESTION DE RISQUE
 - Compléter votre programme en introduisant deux nouvelles sous class d'employes. Ces sous classes designent les employées des secteurs production & manutention.
 - Satisfait de la hiérarchie proposée, notre directeur souhaite maintenant l'exploiter pour afficher le salaire de tout ses employes ainsi que le salaire moyen
 
@@ -37,4 +37,4 @@ Ajoutez une classe Personnel contenant une collection d'employés. Il s'agira d'
 
 - ajoutEmploye(Employe), ajout un employé a la collection
 - afficherSalaire(), affiche le salaire
-- salaireMoyen(), affiche le salaire moyen de la collection
+- salaireMoyen(), affiche le salaire moyen de la collection -> PAS FAIT

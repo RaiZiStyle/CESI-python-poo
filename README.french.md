@@ -1,5 +1,5 @@
 # Exercice école : 
-
+## Etape 1 
 Le directeur d'entreprise de produits chimiques souhite gérer les salaires et primes avec un programme
 
 Un employée est caractérisée par : 
@@ -11,6 +11,7 @@ Un employée est caractérisée par :
 Fonction abstraite "calculerSalaire"
 Fonction getNom return "L'employé "prenom" "nom"
 -----------------
+## Etape 2
 4 Type d'employer : 
 - Vente
 - Représentation
@@ -27,7 +28,7 @@ Calcul du salaire mensuel dépend du type de l'empoyer :
 
 
 ---------------------------------------
-
+## Etape 3s
 Certains employée sont dans des secteurs de risque et on ne prime mensuelle de 200€
 - Compléter votre programme en introduisant deux nouvelles sous class d'employes. Ces sous classes designent les employées des secteurs production & manutention.
 - Satisfait de la hiérarchie proposée, notre directeur souhaite maintenant l'exploiter pour afficher le salaire de tout ses employes ainsi que le salaire moyen
